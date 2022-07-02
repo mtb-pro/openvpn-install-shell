@@ -1,4 +1,4 @@
-1 - download openvpn-install.sh on user server
+1 - download openvpn-install.sh on your server
 
 2 - give run permmition to openvpn-install.sh
 
